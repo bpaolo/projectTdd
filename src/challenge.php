@@ -36,5 +36,5 @@ class Challenge
 
 $stackMulti = new Challenge();
 $stackMulti->findOutMultiples();
-$stackMulti->getOutput();
+$stackMulti->printOutput();
 ?>
